@@ -48,19 +48,16 @@ I used the [imbalanced learn](https://imbalanced-learn.readthedocs.io) library t
 
 <details>
 <summary>Which model had the best balanced accuracy score?</summary><br>
-<details>
 <summary>SMOTE (0.9948279972279972)</summary><br>
 </details>
 
 <details>
 <summary>Which model had the best recall score?</summary><br>
-<details>
 <summary>All models</summary><br>
 </details>
 
 <details>
 <summary>Which model had the best geometric mean score?</summary><br>
-<details>
 <summary>Oversampling, SMOTE, and Combination (Over and Under) Sampling</summary><br>
 </details>
 
@@ -80,25 +77,21 @@ In this section, I trained and compared two different ensemble classifiers to pr
 
 <details>
 <summary>Which model had the best balanced accuracy score?</summary><br>
-<details>
 <summary>Easy Ensemble Classifier (0.74)</summary><br>
 </details>
 
 <details>
 <summary>Which model had the best recall score?</summary><br>
-<details>
 <summary>Balanced Random Forest Classifier (0.84)</summary><br>
 </details>
     
 <details>
 <summary>Which model had the best geometric mean score?</summary><br>
-<details>
 <summary>Easy Ensemble Classifier (0.74)</summary><br>
 </details>
 
 <details>
 <summary>What are the top three features?</summary><br>
-<details>
 1. total_rec_prncp (0.08201924196461595)<br>
 2. last_pymnt_amnt (0.06303398109180933)<br>
 3. total_rec_int (0.057469519822358366)<br>
