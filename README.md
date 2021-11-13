@@ -1,5 +1,4 @@
 # Machine_Learning
-# Unit 11 - Risky Business
  
 ![Credit Risk](Images/credit-risk.jpg)
 
@@ -44,21 +43,21 @@ I used the [imbalanced learn](https://imbalanced-learn.readthedocs.io) library t
 5. SMOTEENN Algorithm Results
 ![SMOTEENN Algorithm Results](Images/SMOTEENN_Algorithm.png) 
 
-## The above helps to answer the following questions:
+## Based on the information above the following questions can be answered:
 
 <details>
 <summary>Which model had the best balanced accuracy score?</summary><br>
-<summary>SMOTE (0.9948279972279972)</summary><br>
+- SMOTE (0.9948279972279972)<br>
 </details>
 
 <details>
 <summary>Which model had the best recall score?</summary><br>
-<summary>All models</summary><br>
+- All models<br>
 </details>
 
 <details>
 <summary>Which model had the best geometric mean score?</summary><br>
-<summary>Oversampling, SMOTE, and Combination (Over and Under) Sampling</summary><br>
+- Oversampling, SMOTE, and Combination (Over and Under) Sampling<br>
 </details>
 
 - - -
@@ -73,21 +72,21 @@ In this section, I trained and compared two different ensemble classifiers to pr
 2. Easy Ensemble Classifier Results
 ![Easy Ensemble Classifier Results](Images/Easy_Ensemble_Classifier_Results.png) 
 
-## The above helps to answer the following questions:
+## Based on the information above the following questions can be answered:
 
 <details>
 <summary>Which model had the best balanced accuracy score?</summary><br>
-<summary>Easy Ensemble Classifier (0.74)</summary><br>
+- Easy Ensemble Classifier (0.74)<br>
 </details>
 
 <details>
 <summary>Which model had the best recall score?</summary><br>
-<summary>Balanced Random Forest Classifier (0.84)</summary><br>
+- Balanced Random Forest Classifier (0.84)<br>
 </details>
     
 <details>
 <summary>Which model had the best geometric mean score?</summary><br>
-<summary>Easy Ensemble Classifier (0.74)</summary><br>
+- Easy Ensemble Classifier (0.74)<br>
 </details>
 
 <details>
