@@ -57,7 +57,7 @@ I used the [imbalanced learn](https://imbalanced-learn.readthedocs.io) library t
 
 <details>
 <summary>Which model had the best geometric mean score?</summary><br>
-- Oversampling, SMOTE, and Combination (Over and Under) Sampling<br>
+- Oversampling, Undersampling, SMOTE, and Combination (Over and Under) Sampling<br>
 </details>
 
 - - -
